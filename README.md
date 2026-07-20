@@ -49,7 +49,7 @@ Then open your web browser and navigate to https://pbs-wi-1.com/ to access the a
 - Launch the app and allow access to your device's camera.
 - Follow the on-screen prompts to start a tour.
 - Click on any tile to view more information on the tourist destination you clicked into.
-- On the landing page of app, use scan button and oint your camera at supported AR markers to trigger interactive content.
+- On the landing page of app, use scan button and point your camera at supported AR markers to trigger interactive content.
 - Click on sound button to start the story associated with the AR model overlayed on screen.
 - To pause the audio, either click on the sound button again, or click on back button to exit out of the camera.
 - Click on 'CC' button, overlayed along with AR model, to view scrollable captions for the stories.
